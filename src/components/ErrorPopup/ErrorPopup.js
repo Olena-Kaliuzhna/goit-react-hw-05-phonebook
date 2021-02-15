@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import s from './errorPopup.module.css';
+import s from './ErrorPopup.module.css';
 
 function ErrorPopup({ text }) {
   return (
